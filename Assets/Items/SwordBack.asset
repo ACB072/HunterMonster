@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c122a0dc0311241aae242935eec1d6, type: 3}
+  m_Name: SwordBack
+  m_EditorClassIdentifier: 
+  itemName: SwordBack
+  modelPrefab: {fileID: 8486040812478317062, guid: 490523c32d38bc343bf12d1f70ed1714, type: 3}
+  isUnarmed: 1
+  OH_Light_Attack_1: 
+  OH_Light_Attack_2: 

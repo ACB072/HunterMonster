@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 955f3dd84523b58418919c0e0b425c1a
+  - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: 2ed4200e787f2de48981e69b0147b8c2
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MissionFailed.unity
+    guid: 1fae94f9172fe644685c278e0b0b2604
+  - enabled: 1
+    path: Assets/Scenes/MissionComplete.unity
+    guid: 440fda0f88cc7a54ebf576e2b8048777
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 43fabf6eb109fe54bb0c5f9c24c7404b, type: 2}
